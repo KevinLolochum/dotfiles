@@ -1,2 +1,2 @@
-# Sublimefiles
+# dotfiles
 sublimesettings
